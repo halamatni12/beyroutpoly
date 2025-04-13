@@ -1,1 +1,20 @@
-this is the documntation about beirupoly
+# BeirutPoly – A Local Twist on Monopoly
+
+**BeirutPoly** is a creative, localized adaptation of the classic Monopoly board game, reimagined by the Lebanese art collective **Waraq**.
+
+This project debuted in **November 2013** during the **Beirut Street Festival**, not as a traditional board game, but as an **interactive street performance**. It transformed the city into a **life-sized game board**, inviting participants to immerse themselves in Beirut’s unique urban and political landscape.
+
+## Key Features
+
+- 🌆 **Real-life city experience**: Players moved through actual locations in Beirut, facing situations that reflect the city's socio-economic and political complexities.
+- 🏙️ **Property acquisition** and community interactions were reimagined to represent **gentrification**, **instability**, and **daily challenges**.
+- 🎭 **Satirical and thought-provoking**: The game provided a humorous yet critical take on life in Beirut, encouraging reflection and discussion.
+
+## Purpose
+
+BeirutPoly aims to merge **art and activism** through play, turning the familiar Monopoly mechanics into a **platform for social commentary** and community engagement.
+
+> 🎥 **Watch it in action**: [Monopoly Beirut - مونوبولي بيروت (YouTube)](https://www.youtube.com/watch?v=3Dd7_MBY7Js)
+
+---
+Created by [**Waraq Collective**](https://www.facebook.com/W
